@@ -1,0 +1,5 @@
+*.o
+sh
+tests/reflector
+.idea/
+.vscode/
