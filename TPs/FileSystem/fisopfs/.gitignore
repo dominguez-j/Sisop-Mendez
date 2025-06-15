@@ -1,0 +1,4 @@
+fisopfs
+*.fisopfs
+*.o
+.vscode/
